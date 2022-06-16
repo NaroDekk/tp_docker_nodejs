@@ -1,0 +1,19 @@
+{
+  "name": "tp_docker_nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NaroDekk/tp_docker_nodejs.git"
+  },
+  "author": "Team NodeJS",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NaroDekk/tp_docker_nodejs/issues"
+  },
+  "homepage": "https://github.com/NaroDekk/tp_docker_nodejs#readme"
+}

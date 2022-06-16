@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/NaroDekk/tp_docker_nodejs/issues"
   },
-  "homepage": "https://github.com/NaroDekk/tp_docker_nodejs#readme"
+  "homepage": "https://github.com/NaroDekk/tp_docker_nodejs#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
 }
